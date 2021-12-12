@@ -1,0 +1,61 @@
+[
+    {
+      "id": 0,
+      "title": "Cancer Care",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus quibusdam, asperiores assumenda perspiciatis natus.",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, sapiente quis cum accusamus, saepe similique inventore, nesciunt earum sit sequi ratione quae quod illum aspernatur dolorum amet corporis numquam labore quisquam magnam beatae neque ab iusto error. Doloremque necessitatibus illum non labore alias expedita quidem aliquid, praesentium ut dolor assumenda recusandae ipsum debitis saepe harum omnis repellendus animi fugit eos, culpa maxime eius! Veritatis rerum ex iusto quibusdam quo corrupti magnam ipsum dolorem, esse animi neque repellendus! Nobis, molestias laudantium.",
+      "img": "https://i.ibb.co/q7TJg6J/jm0.png",
+      "cost": "1000-1200",
+      "time": "8AM-10PM"
+    },
+  
+    {
+      "id": 1,
+      "title": "Dental Care",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt amet natus, officiis iure nulla fugiat.",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis inventore dolor accusantium ut sequi est, ipsum nobis voluptates! Sapiente quis non cumque, incidunt in ad, eum exercitationem est magnam itaque enim! Quaerat quas a labore deserunt nam ducimus nobis exercitationem nostrum asperiores voluptate quae nemo optio provident aut mollitia, accusantium perferendis dignissimos sapiente consectetur eveniet alias magni! Quos ut incidunt praesentium soluta fugiat dolorum minus quidem facilis quisquam ullam obcaecati, eius neque, veniam, doloremque saepe delectus esse tenetur quaerat commodi.",
+      "img": "https://i.ibb.co/P61rSk2/jm1.png",
+      "cost": "200-250",
+      "time": "8AM-10PM"
+    },
+  
+    {
+      "id": 2,
+      "title": "Dermatology",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum libero nemo ipsam praesentium! Qui, doloribus.",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis ullam quaerat consequatur eos sunt eius ipsam non similique beatae dicta, nisi distinctio, officia minima fuga quos, eaque sed nobis dignissimos debitis. Fuga quo praesentium velit vel minus nostrum eveniet deserunt dicta. Debitis animi, dolorum rem aliquam natus asperiores optio magnam cumque consequuntur et at a dolores placeat impedit ipsa perspiciatis, nobis nesciunt modi. Tempora deserunt at officiis aspernatur dolorum impedit blanditiis dolores omnis temporibus officia? Pariatur saepe labore fuga quisquam.",
+      "img": "https://i.ibb.co/BsBm57j/jm2.png",
+      "cost": "300-350",
+      "time": "10AM-4PM"
+    },
+  
+    {
+      "id": 3,
+      "title": "Gastroenterology",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam qui repellendus voluptates id. Nostrum, nobis.",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem facilis officiis quas vel obcaecati sequi, quisquam, enim repellendus, atque eaque autem aut vitae in? Repudiandae veniam totam odio voluptate delectus vel in ex excepturi praesentium voluptas? Impedit provident sequi aliquam maiores deserunt ratione, accusantium quidem placeat in! Fugiat perferendis dolor inventore explicabo ullam ipsam tenetur amet praesentium excepturi quos molestiae nulla magni provident esse aut itaque ducimus quas, facere doloribus voluptatum dignissimos asperiores facilis? Blanditiis fuga tenetur suscipit facilis vero.",
+      "img": "https://i.ibb.co/xqDvtcr/jm3.png",
+      "cost": "500-600",
+      "time": "10AM-4PM"
+    },
+  
+    {
+      "id": 4,
+      "title": "Pediatric Care",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, autem ullam vitae dignissimos quidem eligendi.",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus tempora ab odio nulla exercitationem recusandae doloremque ducimus provident nesciunt, magnam autem, dolor animi dicta sit praesentium maxime voluptatum velit in rerum quasi deleniti quod? Aspernatur cumque similique explicabo deleniti nihil reiciendis, enim provident cum quod nobis laboriosam doloribus minima doloremque placeat officia perspiciatis, culpa quas? Magni quos temporibus excepturi, aut quia officia ratione? Explicabo quia voluptates totam numquam. Cupiditate, officiis officia fugit non quos aut dolor ex atque harum necessitatibus.",
+      "img": "https://i.ibb.co/RBngZfW/jm4.png",
+      "cost": "100-150",
+      "time": "8AM-10PM"
+    },
+  
+    {
+      "id": 5,
+      "title": "Pulmonology",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit laboriosam, repudiandae modi deserunt obcaecati.",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem minima aut, quos porro mollitia dolores error quaerat ducimus obcaecati totam laborum voluptatibus debitis deleniti reiciendis! Vel eligendi hic temporibus delectus, ex veniam deleniti repudiandae corporis odit, molestias recusandae amet. Deleniti dolore sunt sapiente quos perspiciatis, recusandae eligendi corporis, sit itaque eum id beatae pariatur debitis qui eos saepe cupiditate, cum esse veritatis repellat delectus eius maxime. In voluptas aperiam soluta impedit totam ullam quaerat est dicta eligendi, nemo ex adipisci.",
+      "img": "https://i.ibb.co/tbdF4gS/jm5.png",
+      "cost": "400-500",
+      "time": "8AM-10PM"
+    }
+  ]
